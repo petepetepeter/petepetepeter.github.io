@@ -47,6 +47,6 @@ article {
   }
 }
 
-a.special:visited {
+a:visited {
   color: #ff0000;
 }
