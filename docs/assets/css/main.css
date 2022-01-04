@@ -47,6 +47,10 @@ article {
   }
 }
 
+a:link {
+  color: #00F000;
+}
+
 a:visited {
   color: #ff0000;
 }
